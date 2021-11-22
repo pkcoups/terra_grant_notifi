@@ -130,7 +130,7 @@ For each milestone,
 - **FTE:** 2
 - **Costs:** 8,000 USD
 
-[Untitled](https://www.notion.so/076bcbe63d9348558de4e6688af1d89e)
+[Example Milestone Table](https://github.com/terramoney/terra-money-grants/blob/main/Untitled%20Database%20076bcbe63d9348558de4e6688af1d89e.csv)
 
 ### Milestone 2 Example — Additional features
 
