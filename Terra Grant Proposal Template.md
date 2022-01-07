@@ -15,7 +15,7 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 ### Overview
 
 
-Tagline:  Notifi aims to be the communication mesh that bridges projects in web3 with users in the real world by providing a deeply integrated and straightforward messaging experience. 
+**Notifi aims to be the communication mesh that bridges projects in web3 with users in the real world by providing a deeply integrated and straightforward messaging experience.** 
  
 Getting constant push notifications from your email, messages, social media platforms, and every other app can be overwhelming. With the explosion of a new generation of blockchain projects and the eventual mass adoption by the public in the banking (Defi & Payments), NFTs, and the gaming industry, the average consumer will need a new web3 ready notification experience to track and manage all their blockchain activity. 
 
@@ -31,11 +31,9 @@ We intend to connect everyone to their world via our messaging service thats and
 
 3) **Notifi Ad Manager**: With our messaging platform, we will provide marketers the ability to create cohesive, multichannel engagements that drive business growth and retention to the growing crypto user segments. Use Notifi segmentation data of wallets to select your audience and push your message or airdrops at scale! 
 
-4) **Notifi Auth**: Use our messaging services to give your customers the ability to offer additional security features and login options via 2fa by validating with SMS, Voice, Email, Push, and Time-based One-time Passwords.
-
 
 - An indication of how your project relates to / integrates into Terra.
-    - We want to be the messaging layer for the Terra Ecosystem of Projects and Users.  
+    - Our focus is to be **the** messaging layer for the Terra Ecosystem of Projects and Users.  
 
 - An indication of why your team is interested in creating this project.
     - We are a team of builders who have spent considerable time in the messaging & observability space and have had the opportunity to launch these services for cloud providers such as Oracle Cloud and AWS. We see an exciting opportunity to build out the next layer service for web3 and help accelerate the adoption of the general public to projects.  
@@ -46,9 +44,13 @@ We expect the teams to already have a solid idea about your project's expected f
 
 - Mockups/designs of any UI components
 - Data models / API specifications of the core functionality
+  -https://docs.notifi.network/ 
 - An overview of the technology stack to be used
+  - 
 - Documentation of core components, protocols, architecture, etc. to be deployed
+  - 
 - PoC/MVP or other relevant prior work or research on the topic
+  -https://www.notifi.network/ 
 - What your project is *not* or will *not* provide or implement
     - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
@@ -61,13 +63,15 @@ Help us locate your project in the Terra landscape and what problems it tries to
     -Gaming
     -Governance 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-    -Dapps and their developers 
-    -Users of Dapps
-    -Wallet 
+    -Dapp builders and developers 
+    -Users/Customers of Dapps
+    -Wallets (Metamask/Phantom etc..) 
 - What need(s) does your project meet?
     -Community Support + Funding  
 - Are there any other projects similar to yours in the Terra ecosystem?
-    -Valkryie (Terra)
+    -Valkryie (Terra): Primiarily focused with on chain wallet transactions. Wallets are targetted and then an air drop of a specific token is done. Notifi provides distinction in two fundemental ways: 
+     -**Dapps own the Communication Experience Natively**. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
+     -We provide web2 bridges 
     -EPNS (ETH)
     -XMTP 
     -Dialect (SOL)  
@@ -81,20 +85,18 @@ Help us locate your project in the Terra landscape and what problems it tries to
 -
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. wagmi@terra.money)
+- **Contact Name:** Paul Kim 
+- **Contact Email:** Paul.Kim@notifi.network
 - **Website:**
 
 ### Legal Structure
 
 - **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line.
-- **Registered Legal Entity:** Name of your registered legal entity, if available.
-
+- **Registered Legal Entity:** Notifi Networks, Inc 
 ### Team's experience
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
 
-If anyone on your team has applied for a grant to Terra previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
 
