@@ -2,14 +2,9 @@
 
 ### **FINAL DOCUMENT MUST BE SUBMITTED IN THE FORM OF A GITHUB REPO FORMATTED IN MARKDOWN**
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a > (such as this one) can be removed.See the Terra Grants Process on how to submit a proposal.
-> 
 - **Project Name:** Notifi
 - **Team Name:** Notifi Networks, Inc 
 - **Payment Address:** terra175pxavlwh4a8fe7xllc6tzdk69euw2d9r3q3uv
-
-> ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
-> 
 
 ## Project Overview
 
@@ -19,17 +14,31 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-Please provide the following:
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-    - Notifi aims to be the communication mesh that bridges projects in web3 with users in the real world by providing a deeply integrated and straightforward messaging experience. 
-- A brief description of your project.
-    - Getting constant push notifications from your email, messages, social media platforms, and every other app can be overwhelming. With the explosion of a new generation of blockchain projects and the eventual mass adoption by the public in the banking (Defi & Payments), NFTs, and the gaming industry, the average consumer will need a new web3 ready notification experience to track and manage all their blockchain activity. 
-    - Notifi aims to provide a simple entry point into the customer messaging world to help these projects avoid these unnecessary complexities. Developers will get worldwide connectivity by interacting with Notifi and getting additional fanout channels as we expand our platform. 
+Tagline:  Notifi aims to be the communication mesh that bridges projects in web3 with users in the real world by providing a deeply integrated and straightforward messaging experience. 
+ 
+Getting constant push notifications from your email, messages, social media platforms, and every other app can be overwhelming. With the explosion of a new generation of blockchain projects and the eventual mass adoption by the public in the banking (Defi & Payments), NFTs, and the gaming industry, the average consumer will need a new web3 ready notification experience to track and manage all their blockchain activity. 
+
+Notifi aims to provide a simple entry point into the customer messaging world to help these projects avoid these unnecessary complexities. Developers will get worldwide connectivity by interacting with Notifi and getting additional fanout channels as we expand our platform. 
+
+**Products and Solutions:** 
+
+We intend to connect everyone to their world via our messaging service thats and to fuel the future of communications by bringing the world closer with these core product offerings:
+
+1) **Notifi APIs**: Our focus will be to allow developers worldwide to use Notifi to unlock communications infrastructure through simple APIs that are simple enough for any developer to use yet robust enough to power the world's most demanding applications. We will provide APIs to dapps to provide their users with a first-class/native experience. 
+
+2) **Notifi Center**: If users want to tailor their push notification experience, Notifi Center is a mobile and web application that will allow the consumer to have a single source of truth to view and manage all their messages in the web3 world.  
+
+3) **Notifi Ad Manager**: With our messaging platform, we will provide marketers the ability to create cohesive, multichannel engagements that drive business growth and retention to the growing crypto user segments. Use Notifi segmentation data of wallets to select your audience and push your message or airdrops at scale! 
+
+4) **Notifi Auth**: Use our messaging services to give your customers the ability to offer additional security features and login options via 2fa by validating with SMS, Voice, Email, Push, and Time-based One-time Passwords.
+
+
 - An indication of how your project relates to / integrates into Terra.
-    -We want to be the messaging layer for the Terra Ecosystem of Projects and Users.  
+    - We want to be the messaging layer for the Terra Ecosystem of Projects and Users.  
+
 - An indication of why your team is interested in creating this project.
-    -We are a team of builders who have spent considerable time in the messaging & observability space and have had the opportunity to launch these services for cloud providers such as Oracle Cloud and AWS. We see an exciting opportunity to build out the next layer service for web3 and help accelerate the adoption of the general public to projects.  
+    - We are a team of builders who have spent considerable time in the messaging & observability space and have had the opportunity to launch these services for cloud providers such as Oracle Cloud and AWS. We see an exciting opportunity to build out the next layer service for web3 and help accelerate the adoption of the general public to projects.  
 
 ### Project Details
 
