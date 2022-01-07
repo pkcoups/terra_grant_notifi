@@ -4,9 +4,9 @@
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a > (such as this one) can be removed.See the Terra Grants Process on how to submit a proposal.
 > 
-- **Project Name:** Notifi 
-- **Team Name:** Legal name of your team (e.g. Fantary Investar)
-- **Payment Address:** Terra Address
+- **Project Name:** Notifi
+- **Team Name:** Notifi Networks, Inc 
+- **Payment Address:** terra175pxavlwh4a8fe7xllc6tzdk69euw2d9r3q3uv
 
 > ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
 > 
@@ -22,9 +22,14 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
+    - Notifi aims to be the communication mesh that bridges projects in web3 with users in the real world by providing a deeply integrated and straightforward messaging experience. 
 - A brief description of your project.
+    - Getting constant push notifications from your email, messages, social media platforms, and every other app can be overwhelming. With the explosion of a new generation of blockchain projects and the eventual mass adoption by the public in the banking (Defi & Payments), NFTs, and the gaming industry, the average consumer will need a new web3 ready notification experience to track and manage all their blockchain activity. 
+    - Notifi aims to provide a simple entry point into the customer messaging world to help these projects avoid these unnecessary complexities. Developers will get worldwide connectivity by interacting with Notifi and getting additional fanout channels as we expand our platform. 
 - An indication of how your project relates to / integrates into Terra.
+    -We want to be the messaging layer for the Terra Ecosystem of Projects and Users.  
 - An indication of why your team is interested in creating this project.
+    -We are a team of builders who have spent considerable time in the messaging & observability space and have had the opportunity to launch these services for cloud providers such as Oracle Cloud and AWS. We see an exciting opportunity to build out the next layer service for web3 and help accelerate the adoption of the general public to projects.  
 
 ### Project Details
 
@@ -43,19 +48,28 @@ We expect the teams to already have a solid idea about your project's expected f
 Help us locate your project in the Terra landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+    -Defi 
+    -Gaming
+    -Governance 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+    -Dapps and their developers 
+    -Users of Dapps
+    -Wallet 
 - What need(s) does your project meet?
+    -Community Support + Funding  
 - Are there any other projects similar to yours in the Terra ecosystem?
-    - If so, how is your project different?
-    - If not, are there similar projects in related ecosystems?
+    -Valkryie (Terra)
+    -EPNS (ETH)
+    -XMTP 
+    -Dialect (SOL)  
 
 ## Team
 
 ### Team members
 
-- Name of team leader
-- Names of team members
-
+-Paul Kim : CEO 
+-Nimesh Amin : CTO 
+-
 ### Contact
 
 - **Contact Name:** Full name of the contact person in your team
