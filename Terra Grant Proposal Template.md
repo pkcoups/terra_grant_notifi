@@ -72,10 +72,12 @@ Help us locate your project in the Terra landscape and what problems it tries to
   - Community Support + Funding  
 - Are there any other projects similar to yours in the Terra ecosystem?
   - Valkryie (Terra): Primiarily focused with on chain wallet transactions. Wallets are targetted and then an air drop of a specific token is done. Notifi provides distinction in two fundemental ways: 
-   - Dapps own the Communication Experience Natively. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
-   - We provide web2 bridges that allow users to be notified of alerts/messages from the web3 world to web2 via SMS/Phone/Third Party Messaging Platform like discord/telegram. At the heart of it we are excelling in one area, deliver notifications through your preferred channel where there is a high confidence that the message will be read and actioned upon.
+    - Dapps own the Communication Experience Natively. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
+    - We provide web2 bridges that allow users to be notified of alerts/messages from the web3 world to web2 via SMS/Phone/Third Party Messaging Platform like discord/telegram. At the heart of it we are excelling in one area, deliver notifications through your preferred channel where there is a high confidence that the message will be read and actioned upon.
     
-  - EPNS (ETH). The majority of their strategy is focused on their mobile app/dapp to subscribe to wallets to recieve notifications in app about transactions that occur. They designate this as a decentral solution but it is just a webhook that listens for events that happen from other aggregators. Where we differ tremendously is it that we think that a developer toolkit to natively provide these notifications to the customers is the key for pursuing adoption and scale of customers as well as recruiting dapps to enhance the customer experience. EPNS is focusing on having dapps and contracts kick off events to send customers to their app, we believe this is important to have but, also to bridge a better customer experience inside the dapp itself. Another area that we differ is in our foundation of monitoring nodes and wallets on the layer 1 itself. We plan to fully index and store changes so that we can pro-actively trigger alerts and provide the notification, but to go full end to end to also allow users to create a function or execution command. A common use case will be, if my alert of liqudiation notification is triggered, then execute my comand to add colleteral and sign the transactions automatically. 
+  - EPNS (ETH). The majority of their strategy is focused on their mobile app/dapp to subscribe to wallets to recieve notifications in app about transactions that occur. They designate this as a decentral solution but it is just a webhook that listens for events that happen from other aggregators. Where we differ tremendously is it that we think that a developer toolkit to natively provide these notifications to the customers is the key for pursuing adoption and scale of customers as well as recruiting dapps to enhance the customer experience. EPNS is focusing on having dapps and contracts kick off events to send customers to their app, we believe this is important to have but, also to bridge a better customer experience inside the dapp itself.
+  
+    Another area that we differ is in our foundation of monitoring nodes and wallets on the layer 1 itself. We plan to fully index and store changes so that we can pro-actively trigger alerts and provide the notification, but to go full end to end to also allow users to create a function or execution command. A common use case will be, if my alert of liqudiation notification is triggered, then execute my comand to add colleteral and sign the transactions automatically. 
     
   - XMTP. These folks are focusing on more cross chain messaging where we are specifically focused on allowing any dapps to message their users and customers to converge their notifications from all projects they currently subscribe to. 
    
@@ -92,13 +94,18 @@ Help us locate your project in the Terra landscape and what problems it tries to
 
 - **Contact Name:** Paul Kim 
 - **Contact Email:** Paul.Kim@notifi.network
-- **Website:**
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line.
+- **Registered Address:** 3815 S Othello Street STE 100 PMB 360 Seattle Washington 98118 United States
 - **Registered Legal Entity:** Notifi Networks, Inc 
+- 
 ### Team's experience
+
+Paul Kim : Director of Product at Circle (New Circle Account Platform + Circle Yield (CEFI), Director of Product at Oracle Cloud Infrastructure (Developer Tools + Messaging and Observability. Launched Oracle Notification Service + Oracle Critical Engineering Alert and Notifications aka PagerDuty replacement), GPM at Grab (Launched GrabPay for 6 Countries for P2M and Product Lead and Architecht of the merchant platform), Apevera (co founder for identity management and security profiling) 
+
+Nimesh Amin : 
+
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
 
@@ -159,8 +166,8 @@ For each milestone,
 ### Milestone 1 Example — Implement Terra Modules
 
 - **Estimated duration:** 1 month
-- **FTE:** 2
-- **Costs:** 8,000 USD
+- **FTE:** 2 (1 Dev + 1 UX) 
+- **Costs:** 20,500 USD
 
 [Example Milestone Table](https://github.com/terramoney/terra-money-grants/blob/main/Untitled%20Database%20076bcbe63d9348558de4e6688af1d89e.csv)
 
@@ -181,10 +188,6 @@ Please include here
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** Terra Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Hashed 
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- Wheter there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- We have created a prototype using Solana. 
