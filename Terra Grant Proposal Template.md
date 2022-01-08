@@ -46,7 +46,7 @@ We intend to connect everyone to their world via our messaging service thats and
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mockups/designs of any UI components
- - https://www.figma.com/file/4S9U3WRO7z1JzNP9xIoAyH/MVP-Designs 
+  - https://www.figma.com/file/4S9U3WRO7z1JzNP9xIoAyH/MVP-Designs 
 - Data models / API specifications of the core functionality
   - https://docs.notifi.network/ 
 - An overview of the technology stack to be used
