@@ -59,30 +59,33 @@ We expect the teams to already have a solid idea about your project's expected f
 Help us locate your project in the Terra landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
-    -Defi 
-    -Gaming
-    -Governance 
+  - Defi 
+  -Gaming
+  -Governance 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-    -Dapp builders and developers 
-    -Users/Customers of Dapps
-    -Wallets (Metamask/Phantom etc..) 
+  -Dapp builders and developers 
+  -Users/Customers of Dapps
+  -Wallets (Metamask/Phantom etc..) 
 - What need(s) does your project meet?
-    -Community Support + Funding  
+  -Community Support + Funding  
 - Are there any other projects similar to yours in the Terra ecosystem?
-    -Valkryie (Terra): Primiarily focused with on chain wallet transactions. Wallets are targetted and then an air drop of a specific token is done. Notifi provides distinction in two fundemental ways: 
-     -**Dapps own the Communication Experience Natively**. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
-     -We provide web2 bridges 
-    -EPNS (ETH)
-    -XMTP 
-    -Dialect (SOL)  
+  -Valkryie (Terra): Primiarily focused with on chain wallet transactions. Wallets are targetted and then an air drop of a specific token is done. Notifi provides distinction in two fundemental ways: 
+    -**Dapps own the Communication Experience Natively**. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
+    -We provide web2 bridges that allow users to be notified of alerts/messages from the web3 world to web2 via SMS/Phone/Third Party Messaging Platform like discord/telegram. At the heart of it we are excelling in one area, deliver notifications through your preferred channel where there is a high confidence that the message will be read and actioned upon.
+    
+  -EPNS (ETH). The majority of their strategy is focused on their mobile app/dapp to subscribe to wallets to recieve notifications in app about transactions that occur. They designate this as a decentral solution but it is just a webhook that listens for events that happen from other aggregators. Where we differ tremendously is it that we think that a developer toolkit to natively provide these notifications to the customers is the key for pursuing adoption and scale of customers as well as recruiting dapps to enhance the customer experience. EPNS is focusing on having dapps and contracts kick off events to send customers to their app, we believe this is important to have but, also to bridge a better customer experience inside the dapp itself. Another area that we differ is in our foundation of monitoring nodes and wallets on the layer 1 itself. We plan to fully index and store changes so that we can pro-actively trigger alerts and provide the notification, but to go full end to end to also allow users to create a function or execution command. A common use case will be, if my alert of liqudiation notification is triggered, then execute my comand to add colleteral and sign the transactions automatically. 
+    
+  -XMTP. These folks are focusing on more cross chain messaging where we are specifically focused on allowing any dapps to message their users and customers to converge their notifications from all projects they currently subscribe to. 
+   
+  -Dialect (SOL) Mostly focused on wallet to wallet communication with a large emphasis on how do I send wallet owners messages such as wanting to bid on an NFT in their ownership. But not super different in terms of our product direction, just a matter of priortization and use case adoption. 
 
 ## Team
 
 ### Team members
 
--Paul Kim : CEO 
--Nimesh Amin : CTO 
--
+ -Paul Kim : CEO 
+ -Nimesh Amin : CTO 
+ -
 ### Contact
 
 - **Contact Name:** Paul Kim 
@@ -110,17 +113,19 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 - [https://github.com/](https://github.com/)<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
+- [https://www.linkedin.com/in/1paulkim/](https://www.linkedin.com/in/1paulkim/) 
+- [https://www.linkedin.com/in/nimeshamin-seattle/](https://www.linkedin.com/in/nimeshamin-seattle/)
+- [https://www.linkedin.com/in/hyungjoon-kim-a69b0573/](https://www.linkedin.com/in/hyungjoon-kim-a69b0573/)
+- [https://www.linkedin.com/in/shuyu5100/](https://www.linkedin.com/in/shuyu5100/)
+- [https://www.linkedin.com/in/hellonathanchung/](https://www.linkedin.com/in/hellonathanchung/)
+- [https://www.linkedin.com/in/hoil-chung-abb15755/](https://www.linkedin.com/in/hoil-chung-abb15755/)
+- [https://www.linkedin.com/in/kimothywu/](https://www.linkedin.com/in/kimothywu/)
 
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_1>
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_2>
 
 ## Development Status
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
-- links to improvement proposals or RFP (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 - references to conversations you might have had related to this project with anyone from Terra
 - previous interface iterations, such as mock-ups and wireframes.
 
