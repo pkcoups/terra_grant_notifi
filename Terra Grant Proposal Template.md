@@ -32,27 +32,29 @@ We intend to connect everyone to their world via our messaging service thats and
 3) **Notifi Ad Manager**: With our messaging platform, we will provide marketers the ability to create cohesive, multichannel engagements that drive business growth and retention to the growing crypto user segments. Use Notifi segmentation data of wallets to select your audience and push your message or airdrops at scale! 
 
 
+
+
 - An indication of how your project relates to / integrates into Terra.
     - Our focus is to be **the** messaging layer for the Terra Ecosystem of Projects and Users.  
 
 - An indication of why your team is interested in creating this project.
     - We are a team of builders who have spent considerable time in the messaging & observability space and have had the opportunity to launch these services for cloud providers such as Oracle Cloud and AWS. We see an exciting opportunity to build out the next layer service for web3 and help accelerate the adoption of the general public to projects.  
 
+
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mockups/designs of any UI components
+ - https://www.figma.com/file/4S9U3WRO7z1JzNP9xIoAyH/MVP-Designs 
 - Data models / API specifications of the core functionality
-  -https://docs.notifi.network/ 
+  - https://docs.notifi.network/ 
 - An overview of the technology stack to be used
-  - 
+  - Nimesh to insert here
 - Documentation of core components, protocols, architecture, etc. to be deployed
-  - 
+  - Nimesh to insert here
 - PoC/MVP or other relevant prior work or research on the topic
-  -https://www.notifi.network/ 
-- What your project is *not* or will *not* provide or implement
-    - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - https://www.notifi.network/ 
 
 ### Ecosystem Fit
 
@@ -60,31 +62,31 @@ Help us locate your project in the Terra landscape and what problems it tries to
 
 - Where and how does your project fit into the ecosystem?
   - Defi 
-  -Gaming
-  -Governance 
+  - Gaming
+  - Governance 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-  -Dapp builders and developers 
-  -Users/Customers of Dapps
-  -Wallets (Metamask/Phantom etc..) 
+  - Dapp builders and developers 
+  - Users/Customers of Dapps
+  - Wallets (Metamask/Phantom etc..) 
 - What need(s) does your project meet?
-  -Community Support + Funding  
+  - Community Support + Funding  
 - Are there any other projects similar to yours in the Terra ecosystem?
-  -Valkryie (Terra): Primiarily focused with on chain wallet transactions. Wallets are targetted and then an air drop of a specific token is done. Notifi provides distinction in two fundemental ways: 
-    -**Dapps own the Communication Experience Natively**. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
-    -We provide web2 bridges that allow users to be notified of alerts/messages from the web3 world to web2 via SMS/Phone/Third Party Messaging Platform like discord/telegram. At the heart of it we are excelling in one area, deliver notifications through your preferred channel where there is a high confidence that the message will be read and actioned upon.
+  - Valkryie (Terra): Primiarily focused with on chain wallet transactions. Wallets are targetted and then an air drop of a specific token is done. Notifi provides distinction in two fundemental ways: 
+   - Dapps own the Communication Experience Natively. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
+   - We provide web2 bridges that allow users to be notified of alerts/messages from the web3 world to web2 via SMS/Phone/Third Party Messaging Platform like discord/telegram. At the heart of it we are excelling in one area, deliver notifications through your preferred channel where there is a high confidence that the message will be read and actioned upon.
     
-  -EPNS (ETH). The majority of their strategy is focused on their mobile app/dapp to subscribe to wallets to recieve notifications in app about transactions that occur. They designate this as a decentral solution but it is just a webhook that listens for events that happen from other aggregators. Where we differ tremendously is it that we think that a developer toolkit to natively provide these notifications to the customers is the key for pursuing adoption and scale of customers as well as recruiting dapps to enhance the customer experience. EPNS is focusing on having dapps and contracts kick off events to send customers to their app, we believe this is important to have but, also to bridge a better customer experience inside the dapp itself. Another area that we differ is in our foundation of monitoring nodes and wallets on the layer 1 itself. We plan to fully index and store changes so that we can pro-actively trigger alerts and provide the notification, but to go full end to end to also allow users to create a function or execution command. A common use case will be, if my alert of liqudiation notification is triggered, then execute my comand to add colleteral and sign the transactions automatically. 
+  - EPNS (ETH). The majority of their strategy is focused on their mobile app/dapp to subscribe to wallets to recieve notifications in app about transactions that occur. They designate this as a decentral solution but it is just a webhook that listens for events that happen from other aggregators. Where we differ tremendously is it that we think that a developer toolkit to natively provide these notifications to the customers is the key for pursuing adoption and scale of customers as well as recruiting dapps to enhance the customer experience. EPNS is focusing on having dapps and contracts kick off events to send customers to their app, we believe this is important to have but, also to bridge a better customer experience inside the dapp itself. Another area that we differ is in our foundation of monitoring nodes and wallets on the layer 1 itself. We plan to fully index and store changes so that we can pro-actively trigger alerts and provide the notification, but to go full end to end to also allow users to create a function or execution command. A common use case will be, if my alert of liqudiation notification is triggered, then execute my comand to add colleteral and sign the transactions automatically. 
     
-  -XMTP. These folks are focusing on more cross chain messaging where we are specifically focused on allowing any dapps to message their users and customers to converge their notifications from all projects they currently subscribe to. 
+  - XMTP. These folks are focusing on more cross chain messaging where we are specifically focused on allowing any dapps to message their users and customers to converge their notifications from all projects they currently subscribe to. 
    
-  -Dialect (SOL) Mostly focused on wallet to wallet communication with a large emphasis on how do I send wallet owners messages such as wanting to bid on an NFT in their ownership. But not super different in terms of our product direction, just a matter of priortization and use case adoption. 
+  - Dialect (SOL) Mostly focused on wallet to wallet communication with a large emphasis on how do I send wallet owners messages such as wanting to bid on an NFT in their ownership. But not super different in terms of our product direction, just a matter of priortization and use case adoption. 
 
 ## Team
 
 ### Team members
 
- -Paul Kim : CEO 
- -Nimesh Amin : CTO 
+ - Paul Kim : CEO 
+ - Nimesh Amin : CTO 
  -
 ### Contact
 
