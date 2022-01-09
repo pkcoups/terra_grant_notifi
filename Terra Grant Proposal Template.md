@@ -10,24 +10,21 @@
 
 ### Overview
 
-
-**Notifi aims to be the customer engagement layer that bridges projects in web3 with users in the real world by providing a simple service to provide a straightforward messaging experience for users.**
+Notifi helps web3 projects of all sizes create meaningful moments with their users across the globe—from the simplest text messages to urgent communications. 
  
 Getting constant push notifications from your email, messages, social media platforms, and every other app can be overwhelming as it is. With the explosion of a new generation of blockchain projects and the eventual mass adoption by the public in the banking (Defi & Payments), NFTs, and the gaming industry, the average consumer will need a new web3 ready notification experience to track and manage all their critical activities. 
 
-Notifi aims to provide a simple entry point to bring enhanced customer experince by providing projects an easy way to integrate. Developers will get worldwide connectivity by using Notifi SDK's and getting support for all consumer channels 
+As the customer engagement layer, we help bridge projects in web3 to channels like voice, text, chat, and email through our APIs. Our aim is to provide meaningful interactions with customers on the channels they prefer.
 
 **Products and Solutions:** 
 
-Notifi helps web3 projects of all sizes create meaningful moments with their users across the globe—from the simplest text messages to financially urgent communications. We intend to connect everyone to their world via our messaging service thats and to fuel the future of communications by bringing the world closer with these core product offerings:
+We intend to connect everyone to their world via our messaging service thats and to fuel the future of communications by bringing the world closer with these core product offerings:
 
 1) **Notifi APIs**: Our focus will be to allow developers worldwide to use Notifi to unlock communications infrastructure through simple APIs that are simple enough for any developer to use yet robust enough to power the world's most demanding applications. We will provide APIs to dapps to provide their users with a first-class/native experience. 
 
 2) **Notifi Center**: If users want to tailor their push notification experience, Notifi Center is a mobile and web application that will allow the consumer to have a single source of truth to view and manage all their messages in the web3 world.  
 
 3) **Notifi Ad Manager**: With our messaging platform, we will provide marketers the ability to create cohesive, multichannel engagements that drive business growth and retention to the growing crypto user segments. Use Notifi segmentation data of wallets to select your audience and push your message or airdrops at scale! 
-
-
 
 - An indication of how your project relates to / integrates into Terra.
     
@@ -125,27 +122,13 @@ Nimesh Amin : Senior engineering leader at OfferUp Inc (owned Search and Invento
 
 ## Development Status
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+Currently in developement overall but have not kicked off Layer 1 integration with Terra. 
 
-- references to conversations you might have had related to this project with anyone from Terra
-- previous interface iterations, such as mock-ups and wireframes.
+- Conversation with SJ + Wagmi about notification layer for terra projects for dao communications/governance to gaming+defi projects to enhance customer engagements. Directed me to apply for a grant. 
+- https://www.figma.com/file/4S9U3WRO7z1JzNP9xIoAyH/MVP-Designs 
+
 
 ## Development Roadmap
-
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Terra. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. *Treat it as a contract*; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested *per milestone*.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
- 
 
 ### Overview
 
@@ -153,7 +136,8 @@ For each milestone,
 - **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 30,000 USD
 
-### Milestone 1 — Implement Terra Alerts Pipeline with Messaging. Users, via our API or Notif web app, should be able to create Alerts on Terra. The messaging endpoints should have full verification implemented to prevent spam, along with allowing users to create not only 1:1 alert:endpoint, but also 1:many alert:endpoints.
+### Milestone 1 — 
+   - Implement Terra Alerts Pipeline with Messaging. Users, via our API or Notif web app, should be able to create Alerts on Terra. The messaging endpoints should have full verification implemented to prevent spam, along with allowing users to create not only 1:1 alert:endpoint, but also 1:many alert:endpoints.
 
 - **Estimated duration:** 1.5 month
 - **FTE:** 2 (1 Dev + 1 UX) 
@@ -161,11 +145,8 @@ For each milestone,
 
 ## Future Plans
 
-Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+We plan on working with a few key projects in the terra ecosystem to build a poc to provide customer notifications. Longterm, we'd like to position ourselves as a core developer tool that is provided to terra projects natively. 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** Hashed 
+**How did you hear about the Grants Program?** Hashed : Baek + Wagmi from Terra  
