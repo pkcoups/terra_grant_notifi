@@ -116,14 +116,9 @@ Please describe the team's relevant experience. If your project involves develop
 
 ### Team Code Repos
 
-- [https://github.com/](https://github.com/)<your_organisation>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_1>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_2>
+- [https://github.com/nimesh-irisio/notify/](https://github.com/nimesh-irisio/notify/)
+- [https://github.com/nimesh-irisio/notify-client/](https://github.com/nimesh-irisio/notify-client/)
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- [https://github.com/](https://github.com/)<team_member_1>
-- [https://github.com/](https://github.com/)<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
 - [https://www.linkedin.com/in/1paulkim/](https://www.linkedin.com/in/1paulkim/) 
@@ -167,21 +162,11 @@ For each milestone,
 - **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE): 2 FTE
 - **Total Costs:** 30,000 USD
 
-### Milestone 1 Example — Implement Terra Modules
+### Milestone 1 — Implement Terra Alerts Pipeline with Messaging. Users, via our API or Notif web app, should be able to create Alerts on Terra. The messaging endpoints should have full verification implemented to prevent spam, along with allowing users to create not only 1:1 alert:endpoint, but also 1:many alert:endpoints.
 
-- **Estimated duration:** 1 month
+- **Estimated duration:** 1.5 month
 - **FTE:** 2 (1 Dev + 1 UX) 
-- **Costs:** 20,500 USD
-
-[Example Milestone Table](https://github.com/terramoney/terra-money-grants/blob/main/Untitled%20Database%20076bcbe63d9348558de4e6688af1d89e.csv)
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 4,000 USD
-
-...
+- **Costs:** 30,000 USD
 
 ## Future Plans
 
