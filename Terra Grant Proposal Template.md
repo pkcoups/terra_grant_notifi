@@ -52,7 +52,7 @@ We expect the teams to already have a solid idea about your project's expected f
 - Documentation of core components, protocols, architecture, etc. to be deployed
   - https://lucid.app/lucidchart/aac4d2bd-d495-4a1b-b84a-7a9a874dba6e/edit?invitationId=inv_8380077a-fd13-41cd-a7f5-93c08ee43dda
 - PoC/MVP or other relevant prior work or research on the topic
-  - https://www.notifi.network/ 
+  - https://www.notifi.network/ (ACTIVELY BEING WORKED ON : IS NOT GA) 
 
 ### Ecosystem Fit
 
@@ -111,8 +111,11 @@ Nimesh Amin : Senior engineering leader at OfferUp Inc (owned Search and Invento
 
 
 ### Team LinkedIn Profiles (if available)
+Full Time: 
 - [https://www.linkedin.com/in/1paulkim/](https://www.linkedin.com/in/1paulkim/) 
 - [https://www.linkedin.com/in/nimeshamin-seattle/](https://www.linkedin.com/in/nimeshamin-seattle/)
+
+Part time (Pending finance raise)  
 - [https://www.linkedin.com/in/hyungjoon-kim-a69b0573/](https://www.linkedin.com/in/hyungjoon-kim-a69b0573/)
 - [https://www.linkedin.com/in/shuyu5100/](https://www.linkedin.com/in/shuyu5100/)
 - [https://www.linkedin.com/in/hellonathanchung/](https://www.linkedin.com/in/hellonathanchung/)
