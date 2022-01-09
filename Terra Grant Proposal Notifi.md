@@ -1,7 +1,5 @@
 # Terra Grant Proposal Template
 
-### **FINAL DOCUMENT MUST BE SUBMITTED IN THE FORM OF A GITHUB REPO FORMATTED IN MARKDOWN**
-
 - **Project Name:** Notifi
 - **Team Name:** Notifi Networks, Inc 
 - **Payment Address:** terra175pxavlwh4a8fe7xllc6tzdk69euw2d9r3q3uv
