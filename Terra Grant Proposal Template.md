@@ -8,22 +8,18 @@
 
 ## Project Overview
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful Terra grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
 
 
-**Notifi aims to be the communication mesh that bridges projects in web3 with users in the real world by providing a deeply integrated and straightforward messaging experience.** 
+**Notifi aims to be the customer engagement layer that bridges projects in web3 with users in the real world by providing a simple service to provide a straightforward messaging experience for users.**
  
-Getting constant push notifications from your email, messages, social media platforms, and every other app can be overwhelming. With the explosion of a new generation of blockchain projects and the eventual mass adoption by the public in the banking (Defi & Payments), NFTs, and the gaming industry, the average consumer will need a new web3 ready notification experience to track and manage all their blockchain activity. 
+Getting constant push notifications from your email, messages, social media platforms, and every other app can be overwhelming as it is. With the explosion of a new generation of blockchain projects and the eventual mass adoption by the public in the banking (Defi & Payments), NFTs, and the gaming industry, the average consumer will need a new web3 ready notification experience to track and manage all their critical activities. 
 
-Notifi aims to provide a simple entry point into the customer messaging world to help these projects avoid these unnecessary complexities. Developers will get worldwide connectivity by interacting with Notifi and getting additional fanout channels as we expand our platform. 
+Notifi aims to provide a simple entry point to bring enhanced customer experince by providing projects an easy way to integrate. Developers will get worldwide connectivity by using Notifi SDK's and getting support for all consumer channels 
 
 **Products and Solutions:** 
 
-We intend to connect everyone to their world via our messaging service thats and to fuel the future of communications by bringing the world closer with these core product offerings:
+Notifi helps web3 projects of all sizes create meaningful moments with their users across the globe—from the simplest text messages to financially urgent communications. We intend to connect everyone to their world via our messaging service thats and to fuel the future of communications by bringing the world closer with these core product offerings:
 
 1) **Notifi APIs**: Our focus will be to allow developers worldwide to use Notifi to unlock communications infrastructure through simple APIs that are simple enough for any developer to use yet robust enough to power the world's most demanding applications. We will provide APIs to dapps to provide their users with a first-class/native experience. 
 
@@ -33,11 +29,12 @@ We intend to connect everyone to their world via our messaging service thats and
 
 
 
-
 - An indication of how your project relates to / integrates into Terra.
+    
     - Our focus is to be **the** messaging layer for the Terra Ecosystem of Projects and Users.  
 
 - An indication of why your team is interested in creating this project.
+    
     - We are a team of builders who have spent considerable time in the messaging & observability space and have had the opportunity to launch these services for cloud providers such as Oracle Cloud and AWS. We see an exciting opportunity to build out the next layer service for web3 and help accelerate the adoption of the general public to projects.  
 
 
@@ -73,7 +70,7 @@ Help us locate your project in the Terra landscape and what problems it tries to
   - Users/Customers of Dapps
   - Wallets (Metamask/Phantom etc..) 
 - What need(s) does your project meet?
-  - Community Support + Funding  
+  - Community Support (ecosystem for go to market + developer support for troubleshooting and guidance) + Funding   
 - Are there any other projects similar to yours in the Terra ecosystem?
   - Valkryie (Terra): Primiarily focused with on chain wallet transactions. Wallets are targetted and then an air drop of a specific token is done. Notifi provides distinction in two fundemental ways: 
     - Dapps own the Communication Experience Natively. We provide First Class Native Customer Experiences in the Dapps via our SDK/APIs that empower developers to manage and maintain a relationship with their users indefinetly and not just a one time air drop. Using our tools, dapps can focus on an intimiate rentention and engagement with their customers with continual messaging on governance, events, announcements.  
@@ -109,10 +106,6 @@ Help us locate your project in the Terra landscape and what problems it tries to
 Paul Kim : Director of Product at Circle (New Circle Account Platform + Circle Yield (CEFI), Director of Product at Oracle Cloud Infrastructure (Developer Tools + Messaging and Observability. Launched Oracle Notification Service + Oracle Critical Engineering Alert and Notifications aka PagerDuty replacement), GPM at Grab (Launched GrabPay for 6 Countries for P2M and Product Lead and Architecht of the merchant platform), Apevera (co founder for identity management and security profiling) 
 
 Nimesh Amin : Senior engineering leader at OfferUp Inc (owned Search and Inventory systems). Architect at Oracle Cloud Infrastructure (Architect for organization that owns Streaming/Messaging/Email/Inter-service Connectors). Principal engineer at Microsoft on Xbox (owned E2E video/tv passthrough pipelines on Xbox, along with video streaming). Architect at iStreamPlanet, now acquired by Turner Broadcasting (designed and built foundational components such as segment pub/sub for reliable, distributed transcoding of video assets for VoD and live video).
-
-
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
 
 ### Team Code Repos
 
@@ -152,14 +145,12 @@ For each milestone,
 - commit to providing Dockerfiles for the delivery of your project.
 - indicate milestone duration as well as number of full-time employees working on each milestone.
 - **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> If any of your deliverables is based on somebody else's work, make sure you work and publish under the terms of the license of the respective project and that you highlight this fact in your milestone documentation and in the source code if applicable! Teams that submit others' work without attributing it will be immediately terminated.
-> 
+ 
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months): 2 months
-- **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE): 2 FTE
+- **Total Estimated Duration:** 1.5 months
+- **Full-Time Equivalent (FTE):** 2 FTE
 - **Total Costs:** 30,000 USD
 
 ### Milestone 1 — Implement Terra Alerts Pipeline with Messaging. Users, via our API or Notif web app, should be able to create Alerts on Terra. The messaging endpoints should have full verification implemented to prevent spam, along with allowing users to create not only 1:1 alert:endpoint, but also 1:many alert:endpoints.
@@ -178,5 +169,3 @@ Please include here
 ## Additional Information
 
 **How did you hear about the Grants Program?** Hashed 
-
-- We have created a prototype using Solana. 
