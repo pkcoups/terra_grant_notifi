@@ -58,10 +58,11 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Help us locate your project in the Terra landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem?
-  - Defi 
-  - Gaming
-  - Governance 
+- Where and how does your project fit into the ecosystem
+  - We can provide notification services to all projects in the ecosystem but we'd love to focus on a few categories first:  
+    - Defi 
+    - Gaming
+    - Governance 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
   - Dapp builders and developers 
   - Users/Customers of Dapps
