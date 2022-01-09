@@ -50,9 +50,13 @@ We expect the teams to already have a solid idea about your project's expected f
 - Data models / API specifications of the core functionality
   - https://docs.notifi.network/ 
 - An overview of the technology stack to be used
-  - Nimesh to insert here
+  - Backend is composed of 2 separate planes. 
+    - The first is the control plane where users create/manage their accounts along with their alerts and contact information.
+    - The second is the dataplane where the Notifi systems pick up configuration changes the users made in the control plane, and run the commands in a highly available system. This is the plane that will listen via RPC API nodes, aggregate and ETL relevant blockchain events and changes. According to filter rules, associated messages will be sent from here (email, SMS, Telegram, voice call, etc).
+  - All backend components are written in .net core for off-chain logic. On-chain logic will depend on the particular L1.
+  - Frontend is a React/Typescript application that interfaces directly with our public API.
 - Documentation of core components, protocols, architecture, etc. to be deployed
-  - Nimesh to insert here
+  - https://lucid.app/lucidchart/aac4d2bd-d495-4a1b-b84a-7a9a874dba6e/edit?invitationId=inv_8380077a-fd13-41cd-a7f5-93c08ee43dda
 - PoC/MVP or other relevant prior work or research on the topic
   - https://www.notifi.network/ 
 
@@ -104,7 +108,7 @@ Help us locate your project in the Terra landscape and what problems it tries to
 
 Paul Kim : Director of Product at Circle (New Circle Account Platform + Circle Yield (CEFI), Director of Product at Oracle Cloud Infrastructure (Developer Tools + Messaging and Observability. Launched Oracle Notification Service + Oracle Critical Engineering Alert and Notifications aka PagerDuty replacement), GPM at Grab (Launched GrabPay for 6 Countries for P2M and Product Lead and Architecht of the merchant platform), Apevera (co founder for identity management and security profiling) 
 
-Nimesh Amin : 
+Nimesh Amin : Senior engineering leader at OfferUp Inc (owned Search and Inventory systems). Architect at Oracle Cloud Infrastructure (Architect for organization that owns Streaming/Messaging/Email/Inter-service Connectors). Principal engineer at Microsoft on Xbox (owned E2E video/tv passthrough pipelines on Xbox, along with video streaming). Architect at iStreamPlanet, now acquired by Turner Broadcasting (designed and built foundational components such as segment pub/sub for reliable, distributed transcoding of video assets for VoD and live video).
 
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
@@ -159,9 +163,9 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k for initial grants* and $100k for follow-up grants. (e.g. 12,000 USD). This and the costs for each milestone need to be in USD; if the grant is paid out in Luna, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months): 2 months
+- **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE): 2 FTE
+- **Total Costs:** 30,000 USD
 
 ### Milestone 1 Example — Implement Terra Modules
 
